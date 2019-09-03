@@ -1,19 +1,16 @@
 {
-  "streams": [
-    {
-      "title": "try",
-      "description": "now",
-      "id": 1
-    },
-    {
-      "title": "second",
-      "description": "one",
-      "id": 2
-    },
-    {
-      "title": "second",
-      "description": "one",
-      "id": 3
-    }
-  ]
+	"streams": [
+		{
+			"title": "new ",
+			"description": "stream",
+			"userId": "109074413994701782991",
+			"id": 4
+		},
+		{
+			"title": "number 3",
+			"description": "nav",
+			"userId": "109074413994701782991",
+			"id": 5
+		}
+	]
 }
