@@ -1,16 +1,15 @@
 {
-	"streams": [
-		{
-			"title": "new ",
-			"description": "stream",
-			"userId": "109074413994701782991",
-			"id": 4
-		},
-		{
-			"title": "number 3",
-			"description": "nav",
-			"userId": "109074413994701782991",
-			"id": 5
-		}
-	]
+  "streams": [
+    {
+      "title": "Patch",
+      "description": "This change was made by a patch request!",
+      "userId": "109074413994701782991",
+      "id": 6
+    },
+    {
+      "title": "Here we go...",
+      "description": "This is a refactor",
+      "id": 7
+    }
+  ]
 }
